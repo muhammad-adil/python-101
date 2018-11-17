@@ -71,6 +71,9 @@ f = "Hello, World!"
 print(f.replace("H", "J"))
 # Jello, World! 
 
-
+# The split() method splits the string into substrings if it finds instances of the separator:
+g = "Hello, World!"
+print(g.split(",")) 
+# returns ['Hello', ' World!'] 
 
 
