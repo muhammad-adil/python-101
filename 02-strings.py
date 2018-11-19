@@ -3,6 +3,10 @@
 
 
 # // String
+# String literals in python are surrounded by either single quotation marks, or double quotation marks.
+# 'hello' is the same as "hello".
+# Strings can be output to screen using the print function. For example: print("hello").
+
 a = "Hello, World!"
 print(a[1])
 # output is 
